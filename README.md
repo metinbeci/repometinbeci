@@ -1,2 +1,2 @@
 # repometinbeci
-metin becinin reposu.
+metin becinin reposu..
